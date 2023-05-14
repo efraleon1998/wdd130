@@ -1,0 +1,91 @@
+
+div.conent {
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+  
+.div.nav a {
+  text-align: center;
+}
+
+.home-title {
+    text-align: center;
+  }
+
+.home-title_1 {
+  text-align: center;
+}
+
+.button-box {
+  text-align: center;
+}
+main section{
+    text-align: center;
+  }
+
+#background {
+    height: 725px;
+}
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(70, 212, 118, 0.466);
+}
+nav a:hover {
+    background-color: black;
+}
+.book {
+    background-color: rgba(70, 212, 118, 0.466);
+}     
+.join {
+    background-color: black;
+}
+.book:hover {
+    background-color: black;
+}
+.join:hover {
+    background-color: black;
+}
+#background {
+    background-color: rgba(70, 212, 118, 0.466);
+}
+.msg {
+    background-color: rgba(70, 212, 118, 0.466);
+}
+footer {
+    
+    background-color: rgb(237, 241, 238);
+}
+
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+
+
+.logo {
+    width: 80px;
+}
+   
+.icon {
+    width: 80px;
+}
+   
+.card-img {
+    width: 500px;
+    height: 500px;
+} 
+   
+.hero-img {
+    width: 1000px;
+    height: 1000px;
+}
+#hero-img {
+    width: 100%;
+}
+footer p {
+    font-size: 1.2em;
+}    
+       
